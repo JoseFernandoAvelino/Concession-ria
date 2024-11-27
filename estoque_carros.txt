@@ -1,0 +1,20 @@
+S-10,295000.0,2024,novo
+T-Cross,169000.0,2024,novo
+Onix,80000.0,2022,novo
+Polo,78000.0,2023,novo
+Argo,68000.0,2022,novo
+Uno,43000.0,2015,conservado
+UP,54000.0,2016,conservado
+HB-20,50000.0,2016,conservado
+Onix,52000.0,2016,conservado
+Sandero,48000.0,2015,conservado
+Creta,94000.0,2021,seminovo
+Virtus,76000.0,2019,seminovo
+Toro,135000.0,2020,seminovo
+Logan,52000.0,2019,seminovo
+Kwid,42000.0,2019,seminovo
+Corsa,26000.0,2008,mal estado
+Prisma,28000.0,2009,mal estado
+Fox,38000.0,2012,mal estado
+Siena,30000.0,2010,mal estado
+Palio,31000.0,2012,mal estado
